@@ -67,13 +67,6 @@ I'm on a mission to apply my skills in a dynamic work environment that values in
 
 🤖 AI & Machine Learning – Curious about integrating intelligent features into web apps.</p></div>
 
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'mirajul01685' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/mirajul01685/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
 
 ## 🏆 GitHub Trophies
 
