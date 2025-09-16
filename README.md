@@ -3,7 +3,7 @@
 # 🌟 Welcome to Md Mirajul Islam's Profile 🌟
 
 <div align="center">
-  <img height="150" src="https://drive.google.com/drive/u/0/home"  />
+  <img height="150" src="https://drive.google.com/file/d/160_ojhj7su2GQbupJ3ptXJk9s6CoLUi2/view?usp=drive_link"  />
 </div>
 
 
