@@ -3,7 +3,7 @@
 # 🌟 Welcome to Md Mirajul Islam's Profile 🌟
 
 <div align="center">
- <iframe  src="https://drive.google.com/file/d/160_ojhj7su2GQbupJ3ptXJk9s6CoLUi2/preview" width="640" height="480" allow="autoplay"></iframe>
+ <img  src="https://media.licdn.com/dms/image/v2/D4E16AQHzi0nR5GI8AQ/profile-displaybackgroundimage-shrink_350_1400/B4EZjrmqnsGYAg-/0/1756299441684?e=1761177600&v=beta&t=p4xqYriZ7jIBaPwfJ9EXzgJQawTaAVL8aQ7CZ1jfC5U" width="100%" height="580" allow="autoplay"></img>
 </div>
 
 
@@ -33,7 +33,16 @@ I'm on a mission to apply my skills in a dynamic work environment that values in
 
 <hr>
 
-## 🔭 I'm currently working on
+## 🔭 Work & Collaboration
+
+<div align="left">
+
+- 🔭 I'm currently working on [**Foodzy**](https://foodzywebsite.netlify.app/)
+- 👯 I'm looking to collaborate on [**raahimaengineering**](https://raahimaengineering.netlify.app/)
+
+</div>
+
+## 👨‍💻 Details...
 
 <div align=""><p>🌐 Developing Foodzy – a modern food ordering web app built with MERN stack (MongoDB, Express, React, Node.js).
 
