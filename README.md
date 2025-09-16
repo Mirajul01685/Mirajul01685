@@ -118,7 +118,7 @@ I'm on a mission to apply my skills in a dynamic work environment that values in
 
 <div align="center">
 
-<a href=" https://github.com/mirajul01685"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/md-mirajul-islam01685/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> <a href="app.netlify.com/teams/mirazkhan01685/projects"><img src="https://img.shields.io/badge/netlify-%230077B5.svg?style=for-the-badge&logo=netlify&logoColor=white&color=4169e1"></a>
+<a href=" https://github.com/mirajul01685"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&color=9a6bdf"></a> <a href="https://www.linkedin.com/in/md-mirajul-islam01685/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=df6b9a"></a> <a href="[app.netlify.com/teams/mirazkhan01685/projects](https://app.netlify.com/teams/mirazkhan01685/projects)"><img src="https://img.shields.io/badge/netlify-%230077B5.svg?style=for-the-badge&logo=netlify&logoColor=white&color=4169e1"></a>
 
 </div>
 
